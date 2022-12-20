@@ -1,0 +1,38 @@
+h1{
+    color: blue;
+    text-transform: uppercase;
+    
+}
+
+.title_error{
+    color: red;
+    text-transform: uppercase;
+}
+
+div{
+    border-radius: 30%;
+    border-color: black;
+    border-style: solid;
+    height: 7rem;
+    width: 10rem;
+    display: flex;
+}
+
+p{
+    color: black;
+    text-align: center;
+    margin: auto;
+    
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    height: 2.5rem;
+    
+}
+
+a:hover{
+    color: orange;
+    cursor: hand;       
+}
